@@ -1,5 +1,5 @@
 <h4 align="center">
-  💾 API com AdonisJs
+  💻 API com AdonisJs 💻
 </h4>
 
 <p align="center">
@@ -10,11 +10,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
-</p>
-
-## 💻 Tecnologias
+## 🎮 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
